@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var celsius = TempConverter.FahrenheitToCelsius(212);
+            Console.WriteLine($"celsius {celsius}");
+            var fahrenheit = TempConverter.CelsiusToFahrenheit(100);
+            Console.WriteLine($"fahrenheit {fahrenheit}");
         }
     }
 }

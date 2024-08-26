@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qrQZBxAgDHsLboMpvgCebpDMclUtdolKVwJXB+1qzMwIgcez0dSBaOJDvJLoG0X39kNmeJLWqYRCJLVBa9xCug==",
+  "dgSpecHash": "XzNlnch2XiKRYrmbDWkG9SbZYVG6snChqFVONvTT6tZJHePvkkzY9YyMemvMHhKwqYYWz9RX2OYsIKSi71yMVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\bronc\\Desktop\\Repos\\Static-Exercise\\StaticExercise\\StaticExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
